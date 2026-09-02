@@ -1,5 +1,6 @@
 def add(a, b):
-    print(a + b)
+"""Return the sum of a and b."""
+    return a + b
 def subtract(a, b):
     print(a - b)
 
